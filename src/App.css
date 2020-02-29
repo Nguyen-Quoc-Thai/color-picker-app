@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.mt-30{
+  margin-top: 30px;
+}
+
+.content-style{
+  border: 2px solid white;
+
+  height: 50px;
+  text-overflow: hidden;
+}
+
+.content-style p{
+  margin-top: 11px;
+  margin-left: 10px;
+}
+
+.he-80{
+  height: 80px;
+}
+
+.mr-10{
+  margin-right: 5px;
+}
